@@ -16,8 +16,6 @@ Focusは、あなたの集中を助ける強力なデスクトップアプリで
 
 お好みの方法でダウンロード・インストールできます。
 
-### Releaseからダウンロード
-
 [こちらのページ](https://github.com/Nyanma11/Focus-windows/releases)からダウンロード後、解凍してお使いください。
 
 
@@ -75,4 +73,5 @@ echo # Empty Hosts > C:\Windows\System32\drivers\etc\hosts
 ## ライセンス
 
 このプロジェクトは MIT ライセンスの下で公開されています。
+
 
